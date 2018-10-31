@@ -20,5 +20,5 @@ app.get("/blog",function(req,res){
 
 //listening to app
 app.listen(3000, function(){
-	console.log('The frontend server is running on port 3000!')
+	console.log('The frontend server is running on port 3000!');
 });

@@ -1,14 +1,14 @@
 {
 	"Lorem ipsum dolor.": {
-		"title":"Lorem ipsum dolor sit.",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos.",
+		"title": "Lorem ipsum dolor sit.",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos."
 	},
 	"Lorem ipsum dolor 5.": {
-		"title":"Lorem ipsum dolor sit Lorem ipsum..",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos.",
+		"title": "Lorem ipsum dolor sit Lorem ipsum..",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos."
 	},
 	"Lorem ipsum dolor Lorem ipsum dolor sit amet..": {
-		"title":"Lorem ipsum dolor Lorem ipsum dolor sit amet..",
-		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptates sunt exercitationem quidem sequi, commodi. Mollitia odio voluptatibus, ea accusamus.",
-	},
+		"title": "Lorem ipsum dolor Lorem ipsum dolor sit amet..",
+		"description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, quos. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Unde voluptates sunt exercitationem quidem sequi, commodi. Mollitia odio voluptatibus, ea accusamus."
+	}
 }
