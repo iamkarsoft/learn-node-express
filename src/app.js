@@ -45,6 +45,11 @@ app.get("/blog/:title?",function(req,res){
 		}		
 });
 
+//api endpoint
+app.get('/posts',function(req,res){
+	res.json(postsLists);
+})
+
 //listening to app
 app.listen(3000, function(){
 	console.log('The frontend server is running on port 3000!');
