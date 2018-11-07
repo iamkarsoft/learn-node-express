@@ -1,0 +1,15 @@
+extends ./layout.pug
+block content
+	section.post
+		.container.text-right
+			a(href="").text-faded view all
+			section.row
+				section.col-lg-8.col-lg-offset-4.textcenter
+					h2.section-heading #{post.title}
+
+					hr.light
+
+					p.text-faded
+						| #{post.description}
+					section.article
+						| #{post.description}

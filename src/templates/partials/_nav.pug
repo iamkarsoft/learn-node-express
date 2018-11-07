@@ -1,0 +1,16 @@
+nav.navbar.navbar-light.navbar-expand-lg
+	a.navbar-brand(href="/") Learning Express
+	button.navbar-toggler(type='button', data-toggle='collapse', data-target=".navbar-collapse")
+		span.navbar-toggler-icon
+	
+	section.collapse.navbar-collapse
+		ul.nav.navbar-nav
+			li.nav-item
+				a.nav-link(href='/') Home
+
+			li.nav-item
+				a.nav-link(href='/blog') Blog
+
+			if path === '/'
+				li.nav-item
+					a.nav-link(href='/#services') Services
